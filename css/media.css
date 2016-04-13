@@ -1,0 +1,210 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+
+@media screen and (min-width: 1200px), (max-width: 1500px ) {
+.top-menu li a {
+    font-size:14px;
+    padding: 6px 7px;
+}
+button.call {
+    font-size: 12px;
+    padding: 1.3146% 2.1686%;
+}
+.header__border h1, .header__border h1 span {
+    font: bold 38px "OpenSans", sans-serif;
+    line-height: 100%;
+}
+p.header__center {
+    font-size: 14px;
+}
+img.img__big {
+    max-width: 42.1875%;
+    height: 84.7988%;
+}
+h4.love__info {
+    font-size: 15px;
+}
+h4.tree__info {
+    font-size: 15px;
+}
+h4.tree__water {
+    font-size: 15px;
+}
+p.love__info {
+    font-size:13px;
+}
+p.tree__info {
+    font-size:13px;
+}
+p.water__info {
+    font-size:13px;
+}
+label {
+    margin-right: 2%;
+} 
+input {
+    margin-right: 0;
+    width: 22.22%
+}
+button.registr {
+    width: 21.3157%;
+    font-size: ;
+}
+
+button.registr:hover {
+    background: rgba(255, 255, 255, 0.01);
+    border-radius: 10px;
+    color: #82defc;
+    border: 3px solid #35ade9;
+}
+p.lock__registr {
+    font-size: 12px;
+}
+h2.title__work {
+    font-size: 25px;
+}
+li p {
+    font-size:14px;
+}
+li p span {
+
+    font-size:16px;
+}
+h2.title__travel {
+    font-size: 25px;
+}
+h2.title__gallery {
+    font-size: 25px;
+}
+.reklama__img__1, .reklama__img__2, .reklama__img__3, .reklama__img__4, .reklama__img__5{
+    margin-right: 6%;
+}
+h2.title__clients {
+    font-size: 25px;
+}
+.clients__say p span {
+    font-size: 70px;
+}
+
+.clients__say p {
+    font-size: 16px;
+}
+.form h2 {
+    font-size: 30px;
+}
+
+.form p {
+    font-size: 15px;
+}
+.footer p {
+    font-size: 15px;
+}
+}
+
+/* Medium Devices, Desktops */
+@media screen and (min-width: 992px), (max-width: 1199px)  {
+
+.top-menu li a {
+    font-size: 12px;
+    padding: 10px 4px;
+}
+button.call {
+    font-size: 12px;
+    padding: 1.3146% 2.1686%;
+}
+.header__border h1, .header__border h1 span {
+    font: bold 32px "OpenSans", sans-serif;
+    line-height: 100%;
+}
+p.header__center {
+    font-size: 12px;
+}
+h3.title__about {
+    font-size: 20px;
+}
+
+p.p__about {
+    font-size: 12px;
+    width: 90%;
+}
+
+button.read__more {
+    font-size: 11px;
+}
+img.img__big {
+    max-width: 42.1875%;
+    height: 74.7988%;
+}
+img.img__small {
+    max-width: 100%;
+    height: auto;
+}
+
+h2.title__journal {
+    font-size: 25px;
+}
+    
+h4.love__info {
+    font-size: 13px;
+}
+h4.tree__info {
+    font-size: 13px;
+}
+h4.tree__water {
+    font-size: 13px;
+}
+    p.love__info {
+    font-size:12px;
+}
+p.tree__info {
+    font-size:12px;
+}
+p.water__info {
+    font-size:12px;
+}
+    
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
